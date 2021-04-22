@@ -15,4 +15,4 @@ Update-a log file-ið
 32 batch_size
 1 lstm layer
 
-100 epochs = 0.8164 valdation, 0.5ish training loss (smá overfitt, fínar nótur en endurteknar)
+100 epochs = 0.8164 valdation, 0.5ish training loss (smá overfitt, fínar nótur en endurteknar, 3 unique nótur)

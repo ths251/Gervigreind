@@ -4,22 +4,32 @@ prófa mismunandi keyrslur, hidden_size, lstm layers, dropout. relu activation f
 Update-a log file-ið
 
 #log af öllum keyrslum.
+##################################################################
 64 hidden_size
 32 batch_size
 1 lstm layer
 
 100 epochs = 1.0236 val loss, 0.8413 training loss.
 
-
+##################################################################
 128 hidden_size
 32 batch_size
 1 lstm layer
 
 100 epochs = 0.8164 valdation, 0.5ish training loss (smá overfitt, fínar nótur en endurteknar, 3 unique nótur)
 
-
+##################################################################
 256 hidden_size
 32 batch_size
 1 lstm layer
 100 epochs = 0.60898 val, 0.2672 training (overfitt)
 (15 unique notes)
+
+##################################################################
+256 hidden_size
+32 batch_size
+1 lstm layer
+1 dropout
+100 epochs = 0.6447 val, 0.3591 training 
+(4 unique notes) sama nótan nánast alltaf
+##################################################################

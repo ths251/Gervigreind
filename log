@@ -77,4 +77,10 @@ Update-a log file-ið
 100 epochs = val 0.62, training 0.2533
 2 nótur, meira overfitt
 ##################################################################
+256 hidden
+32 batch
+3 lstm
+3 dropout
 
+100 epochs = val loss 0.6632, training loss 0.3655
+2 nótur

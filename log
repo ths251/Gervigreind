@@ -41,4 +41,10 @@ Update-a log file-ið
 200 epochs = 0.61223 val, 0.3676 training.
 6 unique notes
 ##################################################################
-
+64 hidden
+32 batch
+1 lstm
+1 dropout
+100 epochs = 0.9308 val loss,1.0065 training, 
+3 unique notes (nánast alltaf sama nóta)
+##################################################################

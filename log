@@ -1,0 +1,18 @@
+#TODO
+prófa mismunandi keyrslur, hidden_size, lstm layers, dropout. relu activation function.
+(hafa svo þetta í skýrslunni, byrja smátt og vinna sig upp.  Fer þá í parameter tuning kaflann)
+Update-a log file-ið
+
+#log af öllum keyrslum.
+64 hidden_size
+32 batch_size
+1 lstm layer
+
+100 epochs = 1.0236 val loss, 0.8413 training loss.
+
+
+128 hidden_size
+32 batch_size
+1 lstm layer
+
+100 epochs = 1.0236 val loss, 0.8413 training loss.

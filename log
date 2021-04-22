@@ -54,3 +54,19 @@ Update-a log file-ið
 1 dropout
 100 epochs = 0.7325 val,0.8679 training, 
 2 sömu nóturnar
+##################################################################
+128 hidden
+32 batch
+2 lstm
+2 dropout
+100 epochs = 0.8663 val, 0.7702 training, 
+2 sömu nóturnar
+##################################################################
+256 hidden
+32 batch
+2 lstm
+2 dropout
+
+100 epochs = 0.5911 val loss, 0.3077 training loss
+12 unique nótur, gott lag, gæti verið smá overfitt en lytur ut fyrir að þetta se best.
+##################################################################

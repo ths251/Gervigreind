@@ -84,3 +84,11 @@ Update-a log file-ið
 
 100 epochs = val loss 0.6632, training loss 0.3655
 2 nótur
+##################################################################
+256 hidden
+32 batch
+2 lstm
+2 dropout
+besta modelið sem hefur komið
+prófaði að hækka dropout gildin og bæta við relu
+
